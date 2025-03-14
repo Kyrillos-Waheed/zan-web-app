@@ -1,0 +1,25 @@
+{
+  "name": "zan-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "launch": "nodemon backend/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyrillos-Waheed/zan-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kyrillos-Waheed/zan-web-app/issues"
+  },
+  "homepage": "https://github.com/Kyrillos-Waheed/zan-web-app#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
