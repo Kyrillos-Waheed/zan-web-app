@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
     "launch": "nodemon backend/app.js"
   },
   "repository": {
@@ -19,7 +23,10 @@
   },
   "homepage": "https://github.com/Kyrillos-Waheed/zan-web-app#readme",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "mssql": "^11.0.1",
     "nodemon": "^3.1.9"
   }
 }
