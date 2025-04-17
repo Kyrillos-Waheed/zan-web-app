@@ -4,4 +4,4 @@ const Navbar = () =>
         <div> Navbar</div>
     );
 }
-export default Create;
+export default Navbar;

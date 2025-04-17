@@ -4,4 +4,4 @@ const Users = () =>
         <div> UsersPage</div>
     );
 }
-export default Create;
+export default Users;

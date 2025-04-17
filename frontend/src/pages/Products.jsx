@@ -4,4 +4,4 @@ const Products = () =>
         <div> ProductsPage</div>
     );
 }
-export default Create;
+export default Products;

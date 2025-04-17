@@ -4,4 +4,4 @@ const Orders = () =>
         <div> OrdersPage</div>
     );
 }
-export default Create;
+export default Orders;

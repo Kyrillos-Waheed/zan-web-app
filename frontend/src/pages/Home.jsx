@@ -4,4 +4,4 @@ const Home = () =>
         <div> HomePage</div>
     );
 }
-export default Create;
+export default Home;
