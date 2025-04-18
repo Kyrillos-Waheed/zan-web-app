@@ -1,7 +1,7 @@
 const Orders = () =>
 {
     return (
-        <div> OrdersPage</div>
-    );
-}
+        <div> Orders</div>
+    )
+};
 export default Orders;
